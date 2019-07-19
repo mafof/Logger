@@ -1,5 +1,5 @@
 {
-  "name": "smlogger/simple-logger",
+  "name": "mafof/simple-logger",
   "type": "library",
   "description": "Simple and powerful decision for logging on PHP",
   "keywords": ["log","logging", "simple"],
