@@ -1,5 +1,5 @@
 <?php
-namespace Logger;
+namespace Loggers;
 
 class Log {
     private $settings;
