@@ -4,7 +4,7 @@
   "description": "Simple and powerful decision for logging on PHP",
   "keywords": ["log","logging", "simple"],
   "homepage": "https://github.com/mafof/SMLogger",
-  "license": "GNU 3.0",
+  "license": "GPL-3.0-only",
   "authors": [
     {
       "name": "Pavel Bykov",
