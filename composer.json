@@ -1,9 +1,9 @@
 {
-  "name": "logger/simple-logger",
+  "name": "smlogger/simple-logger",
   "type": "library",
   "description": "Simple and powerful decision for logging on PHP",
   "keywords": ["log","logging", "simple"],
-  "homepage": "https://github.com/mafof/Logger",
+  "homepage": "https://github.com/mafof/SMLogger",
   "license": "GNU 3.0",
   "authors": [
     {
