@@ -1,5 +1,5 @@
 <?php
-namespace Mafof\Loggers;
+namespace SMLogger;
 
 class Log {
     private $settings;
