@@ -1,5 +1,5 @@
 <?php
-namespace Loggers;
+namespace Mafof\Loggers;
 
 class Settings {
     private $pathFileLogs = './logs';
