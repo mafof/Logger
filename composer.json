@@ -1,0 +1,22 @@
+{
+  "name": "logger/simple-logger",
+  "type": "library",
+  "description": "Simple and powerful decision for logging on PHP",
+  "keywords": ["log","logging", "simple"],
+  "homepage": "https://github.com/mafof/Logger",
+  "license": "GNU 3.0",
+  "authors": [
+    {
+      "name": "Pavel Bykov",
+      "email": "pavel.bykov@mafof.ru"
+    }
+  ],
+  "require": {
+    "php": ">=5.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "Logger\\": "src/"
+    }
+  }
+}
